@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../studia/sem2"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string.h": "c",
+			"stdlib.h": "c",
+			"xstring": "cpp",
+			"memory": "cpp",
+			"xmemory": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

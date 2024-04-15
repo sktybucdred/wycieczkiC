@@ -1,0 +1,6 @@
+trivago 1500.46 5 4 Warszawa Krakow Wieliczka Zakopane
+malibu 2000 6 5 Bialystok Lomza Warszawa Krakow Zakopane
+tornado 1000.40 4 3 Bialystok Warszawa Sosnowiec
+pociagi 789 3 4 Radom Sosnowiec Gdynia Bialystok
+albatros 1200 5 4 Szczecin Gdansk Gdynia Sopot
+sentino 1735 5 5 Szczecin Zakopane Warszawa Gdansk Bialystok
